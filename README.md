@@ -1,9 +1,6 @@
-## Hi there 👋
+# Olá! 👋 Eu sou a Luciara.
+Bem-vindo ao meu perfil do GitHub! Sou uma estudante de tecnologia e sempre estou em busca de aprendizado.
 
-<!--
-**LuciaraPereira/LuciaraPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
