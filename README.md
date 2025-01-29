@@ -1,5 +1,6 @@
-# Olá! 👋 Eu sou a Luciara.
-Bem-vindo ao meu perfil do GitHub!
-🚀 Estudante de Sistemas para Internet na FATEC!  
+## 💜 Olá, meu nome é {Luciara}!
 
-![gatinho](https://github.com/user-attachments/assets/9e8f0a15-e55e-4f76-834d-7ddb4dbeb7a4)
+Sou estudante de Sistemas para Internet em uma FATEC.
+
+
+---
