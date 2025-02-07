@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é Luciara!
+##  Olá, meu nome é Luciara! 💜
 
 Sou estudante de Sistemas para Internet em uma FATEC.
 ---
