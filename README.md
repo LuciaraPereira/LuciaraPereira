@@ -25,11 +25,5 @@
 
 </p>
 
-<p align="left">
-  
-  ## Onde me encontrar ⤵️
-
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/luciara-pereira-2550a4231/))
-</p>
 
 
